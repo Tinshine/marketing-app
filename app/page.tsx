@@ -108,6 +108,7 @@ export default function Home() {
           </p>
         </a>
       </div>
+      <script async src="./node_modules/preline/dist/preline.js"></script>
     </main>
   );
 }
